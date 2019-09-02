@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/OlegGorj/service-common-lib.svg)](https://github.com/OlegGorj/service-common-lib/releases)
 [![GitHub issues](https://img.shields.io/github/issues/OlegGorJ/service-common-lib.svg)](https://github.com/OlegGorJ/service-common-lib/issues)
-[![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/0.0.1.svg)](https://github.com/OlegGorj/service-common-lib/commits)
+[![GitHub commits](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg)](https://github.com/OlegGorj/service-common-lib/commits)
 
 Common repository to host common packages and code across multiple services and projects.
 
