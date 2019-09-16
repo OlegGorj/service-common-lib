@@ -24,7 +24,7 @@ func init() {
 	contextLogger.Level = logrus.DebugLevel
 	loggerEntry = contextLogger.WithFields(logrus.Fields{"app": g_appName})
 
-	loggerEntry.Info("Starting service" + g_appName + "...")
+	//loggerEntry.Info("Starting service" + g_appName + "...")
 
 }
 

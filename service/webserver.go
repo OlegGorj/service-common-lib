@@ -7,8 +7,8 @@ import (
 	"os/signal"
 	"context"
 
-	log "github.ibm.com/AdvancedAnalyticsCanada/service-common-lib/common/logging"
-	"github.ibm.com/AdvancedAnalyticsCanada/service-common-lib/common/util"
+	log "github.com/OlegGorJ/service-common-lib/common/logging"
+	"github.com/OlegGorJ/service-common-lib/common/util"
 )
 
 // StartWebServer starts a webserver on the specified port.
