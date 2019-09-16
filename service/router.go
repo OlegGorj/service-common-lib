@@ -9,7 +9,7 @@ import (
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 
-	log "github.ibm.com/AdvancedAnalyticsCanada/service-common-lib/common/logging"
+	log "github.com/oleggorj/service-common-lib/common/logging"
 )
 
 var (
